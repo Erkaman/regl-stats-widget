@@ -19,7 +19,7 @@
     "regl",
     "stats",
     "widget",
-    "dom",
+    "dom"
   ],
   "author": "Eric Arnebäck",
   "license": "MIT",
