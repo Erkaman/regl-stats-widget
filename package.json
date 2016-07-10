@@ -1,0 +1,28 @@
+{
+  "name": "regl-stats-widget",
+  "version": "0.0.1",
+  "description": "Small widget for displaying statistics information about regl",
+  "main": "index.js",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erkaman/regl-stats-widget.git"
+  },
+  "keywords": [
+    "regl",
+    "stats",
+    "widget",
+    "dom",
+  ],
+  "author": "Eric Arnebäck",
+  "license": "MIT",
+  "standard": {},
+  "homepage": "https://github.com/Erkaman/regl-stats-widget"
+}
